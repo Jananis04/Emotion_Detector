@@ -1,0 +1,11 @@
+Collecting blosc2~=2.0.0
+  Downloading blosc2-2.0.0-cp311-cp311-win_amd64.whl.metadata (11 kB)
+Collecting Cython
+  Downloading Cython-3.0.8-cp311-cp311-win_amd64.whl.metadata (3.2 kB)
+Requirement already satisfied: msgpack in c:\users\janan\anaconda3\lib\site-packages (from blosc2~=2.0.0) (1.0.3)
+Downloading blosc2-2.0.0-cp311-cp311-win_amd64.whl (1.9 MB)
+   ---------------------------------------- 1.9/1.9 MB 5.0 MB/s eta 0:00:00
+Downloading Cython-3.0.8-cp311-cp311-win_amd64.whl (2.8 MB)
+   ---------------------------------------- 2.8/2.8 MB 5.7 MB/s eta 0:00:00
+Installing collected packages: Cython, blosc2
+Successfully installed Cython-3.0.8 blosc2-2.0.0
